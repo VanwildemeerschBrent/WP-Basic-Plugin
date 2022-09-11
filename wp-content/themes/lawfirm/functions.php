@@ -9,12 +9,12 @@ function register_nav()
 {
     register_nav_menus(
         array(
-            'header' => 'header',
+            'header' => 'Header',
         )
     );
     register_nav_menus(
         array(
-            'footer' => 'footer',
+            'footer' => 'Footer',
         )
     );
     register_nav_menus(
